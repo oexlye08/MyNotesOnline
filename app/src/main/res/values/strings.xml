@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CRUD Retrofit</string>
+    <string name="to_do">To do</string>
+    <string name="enter_a_note">Enter a note...</string>
+    <string name="save">Save</string>
+    <string name="date">29 Januari 2020</string>
+</resources>

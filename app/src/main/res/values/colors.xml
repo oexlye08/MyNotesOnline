@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#34495e</color>
+    <color name="colorPrimaryDark">#2c3e50</color>
+    <color name="colorAccent">#3498db</color>
+
+<!--    <color palete>-->
+    <color name="white">#f1f9f9</color>
+    <color name="blue">#05dfd7</color>
+    <color name="yellow">#fdd365</color>
+    <color name="pink">#fd2eb3</color>
+    <color name="green">#61d4b3</color>
+    <color name="purple">#c295d8</color>
+
+    <array name="demo_colors">
+        <item>@color/white</item>
+        <item>@color/blue</item>
+        <item>@color/yellow</item>
+        <item>@color/pink</item>
+        <item>@color/green</item>
+        <item>@color/purple</item>
+    </array>
+</resources>
